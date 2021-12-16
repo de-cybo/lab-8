@@ -33,9 +33,7 @@
     padding: 0 30px;
 }
 .hah {
-    font-weight: bolder;
-    color: transparent;
-    -webkit-text-stroke: 0.1rem #fff;
+    color: white;
     font-size: 3vw;
     display: block;
 }
@@ -80,8 +78,7 @@
     width: 100%;
     border-radius: 1rem;
     background: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 17, 17, 0.7)), to(rgba(17, 17, 17, 0.7))), url(../images/home-bg.jpg) no-repeat;
-    background: linear-gradient(rgba(17, 17, 17, 0.7), rgba(17, 17, 17, 0.7)), url(../images/394509-ea-sports-ufc-3-wallpaper.jpg) no-repeat;
-    background-size: cover;
+    background: white;
     background-position: center;
     display: -webkit-box;
     display: -ms-flexbox;
