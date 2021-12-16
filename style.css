@@ -9,7 +9,6 @@
   outline: none;
   border: none;
   text-decoration: none;
-  text-transform: capitalize;
   -webkit-transition: all .2s linear;
   transition: all .2s linear;
 }
@@ -99,9 +98,7 @@ section {
     margin-bottom: -30px;
 }
 .hah {
-    font-weight: bolder;
-    color: transparent;
-    -webkit-text-stroke: 0.1rem #fff;
+    color: white; 
     font-size: 3vw;
     display: block;
 }
